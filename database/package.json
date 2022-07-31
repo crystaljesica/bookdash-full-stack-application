@@ -1,0 +1,16 @@
+{
+  "name": "bookdash-database",
+  "version": "0.0.1",
+  "description": "Data layer for Bookdash",
+  "main": "index.js",
+  "author": "Sean Stevens <sstevens88@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bluebird": "^3.5.1",
+    "jsonfile": "^4.0.0",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.37.10"
+  }
+}
